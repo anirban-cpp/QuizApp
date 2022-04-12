@@ -1,0 +1,36 @@
+.Quiz {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.question > h3 {
+    font-size: 1rem;
+}
+
+.options {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    margin: 1rem;
+}
+
+.options > input {
+    flex: 0.1;
+}
+
+.options > p {
+    flex: 0.9;
+}
+
+.snippet {
+    margin-top: 1rem;
+}

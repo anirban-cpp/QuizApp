@@ -1,3 +1,7 @@
+# About this application
+
+Simple Quiz Web App built completely with ReactJS using Hooks and the Context API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

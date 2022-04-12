@@ -1,0 +1,16 @@
+.header {
+    min-height: 4rem;
+    background-color: #373e3f;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    width: 100%;
+}
+
+.header-user {
+    font-size: 1rem;
+}
